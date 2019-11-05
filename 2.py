@@ -2,7 +2,9 @@ t = int(input())
 
 t += 1
 
-print(t)
+print("sid mahapagal h")
 
 t = t + 1
 t = t + 2
+
+#Rajnish commit

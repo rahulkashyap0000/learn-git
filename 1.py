@@ -1,4 +1,4 @@
 t = input()
-print(t)
+print("sid pagal h")
 
 print(t)
