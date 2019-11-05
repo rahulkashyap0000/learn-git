@@ -1,5 +1,5 @@
 t = int(input())
 
-t += 1
+t += 5
 
 print(t)
