@@ -1,4 +1,4 @@
 t = input()
 print(t)
 
-print(t)
+print(Hey there!)
